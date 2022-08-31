@@ -5,13 +5,13 @@
     ":maintainLockFilesWeekly",
     ":automergeMinor",
     ":automergePr",
-    ":labels(dependencies)"
+    ":labels(dependencies)",
     ":rebaseStalePrs",
     ":enableVulnerabilityAlerts",
     ":disableDependencyDashboard",
     ":semanticCommits",
     ":semanticCommitScope(chore)",
-    ":semanticCommitTypeAll(chore)"
+    ":semanticCommitTypeAll(chore)",
     ":timezone(Asia/Seoul)",
     "helpers:pinGitHubActionDigests",
     "group:allNonMajor"
