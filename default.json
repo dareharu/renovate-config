@@ -10,7 +10,6 @@
     ":enableVulnerabilityAlerts",
     ":disableDependencyDashboard",
     ":semanticCommits",
-    ":semanticCommitScope(chore)",
     ":semanticCommitTypeAll(chore)",
     ":timezone(Asia/Seoul)",
     "helpers:pinGitHubActionDigests",
