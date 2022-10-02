@@ -5,6 +5,7 @@
     ":maintainLockFilesWeekly",
     ":automergeMinor",
     ":automergePr",
+    ":automergeDigest",
     ":labels(dependencies)",
     ":rebaseStalePrs",
     ":enableVulnerabilityAlerts",
