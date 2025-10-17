@@ -16,6 +16,7 @@
     "helpers:pinGitHubActionDigests",
     "group:allNonMajor"
   ],
+  "enabled": "false",
   "schedule": ["before 12pm on Sunday"],
   "assignees": ["Sayakie"],
   "prCreation": "immediate",
